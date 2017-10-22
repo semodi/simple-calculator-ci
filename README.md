@@ -15,3 +15,5 @@ Simple calculator repository to illustrate the use of github, unit testing and c
 [Travis-CI - Continuous integration](https://travis-ci.org)
 
 [Codecov](https://codecov.io)
+
+Fortran95 -- FRUIT.f90 is a good module for unit testing in Fortran. There is also FruitPy which builds and runs Fortran unit tests using a Python interface to the FRUIT library. 
